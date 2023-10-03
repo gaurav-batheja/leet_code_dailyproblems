@@ -10,4 +10,4 @@ class Solution:
             goodpair+=nums[j+1::].count(i)
             j+=1
         return goodpair
-      
+      #thank you
